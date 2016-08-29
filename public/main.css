@@ -5,9 +5,7 @@ body{
 #app{
   margin: 125px;
   text-align: center;
-  border-color: black;
-  border-style: solid;
-  border-width: 10px;
+  border: 10px solid black;
   border-radius: 25px;
 }
 
